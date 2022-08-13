@@ -1,4 +1,20 @@
 {
+  "AC34000488": {
+    "contest_id": "abc264",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc264\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "\"atcoder\".substr()",
+    "problem_url": "https://atcoder.jp/contests/abc264/tasks/abc264_a",
+    "submission_id": "AC34000488",
+    "submission_url": "https://atcoder.jp/contests/abc264/submissions/34000488",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/13/2022 18:25"
+  },
   "AC34927813": {
     "contest_id": "abc269",
     "language": "Python (3.8.2)",
