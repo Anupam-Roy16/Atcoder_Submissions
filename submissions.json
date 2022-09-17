@@ -1,4 +1,20 @@
 {
+  "AC34927813": {
+    "contest_id": "abc269",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc269\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Anyway Takahashi",
+    "problem_url": "https://atcoder.jp/contests/abc269/tasks/abc269_a",
+    "submission_id": "AC34927813",
+    "submission_url": "https://atcoder.jp/contests/abc269/submissions/34927813",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/17/2022 18:11"
+  },
   "AC35113188": {
     "contest_id": "abc270",
     "language": "Python (3.8.2)",
