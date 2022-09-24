@@ -1,4 +1,20 @@
 {
+  "AC35122764": {
+    "contest_id": "abc270",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc270\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Hammer",
+    "problem_url": "https://atcoder.jp/contests/abc270/tasks/abc270_b",
+    "submission_id": "AC35122764",
+    "submission_url": "https://atcoder.jp/contests/abc270/submissions/35122764",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/24/2022 18:57"
+  },
   "AC35286488": {
     "contest_id": "abc271",
     "language": "Python (3.8.2)",
