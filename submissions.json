@@ -1,4 +1,20 @@
 {
+  "AC39022546": {
+    "contest_id": "abc290",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc290\\B.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Qual B",
+    "problem_url": "https://atcoder.jp/contests/abc290/tasks/abc290_b",
+    "submission_id": "AC39022546",
+    "submission_url": "https://atcoder.jp/contests/abc290/submissions/39022546",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/19/2023 18:13"
+  },
   "AC39407997": {
     "contest_id": "abc292",
     "language": "Python (3.8.2)",
