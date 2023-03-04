@@ -5,10 +5,11 @@ Submissions
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-{profile_placeholder}
+* AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/Anupam_Roy.svg)](https://atcoder.jp/users/Anupam_Roy)
+
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [B - Yellow and Red Card](https://atcoder.jp/contests/abc292/tasks/abc292_b) | [Python (3.8.2)](./atcoder/abc292/B.py) | `AtCoder` `*200` | Mar/04/2023 18:25 | 
