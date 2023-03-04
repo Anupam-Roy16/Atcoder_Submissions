@@ -1,4 +1,20 @@
 {
+  "AC39407997": {
+    "contest_id": "abc292",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc292\\A.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "CAPS LOCK",
+    "problem_url": "https://atcoder.jp/contests/abc292/tasks/abc292_a",
+    "submission_id": "AC39407997",
+    "submission_url": "https://atcoder.jp/contests/abc292/submissions/39407997",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/04/2023 18:03"
+  },
   "AC39422185": {
     "contest_id": "abc292",
     "language": "Python (3.8.2)",

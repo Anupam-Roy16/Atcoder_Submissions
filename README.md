@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [B - Yellow and Red Card](https://atcoder.jp/contests/abc292/tasks/abc292_b) | [Python (3.8.2)](./atcoder/abc292/B.py) | `AtCoder` `*200` | Mar/04/2023 18:25 | 
+2 | [B - Yellow and Red Card](https://atcoder.jp/contests/abc292/tasks/abc292_b) | [Python (3.8.2)](./atcoder/abc292/B.py) | `AtCoder` `*200` | Mar/04/2023 18:25 | 
+1 | [A - CAPS LOCK](https://atcoder.jp/contests/abc292/tasks/abc292_a) | [Python (3.8.2)](./atcoder/abc292/A.py) | `AtCoder` `*100` | Mar/04/2023 18:03 | 
